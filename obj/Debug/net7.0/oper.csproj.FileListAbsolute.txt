@@ -1,0 +1,15 @@
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\bin\Debug\net7.0\oper.exe
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\bin\Debug\net7.0\oper.deps.json
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\bin\Debug\net7.0\oper.runtimeconfig.json
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\bin\Debug\net7.0\oper.dll
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\bin\Debug\net7.0\oper.pdb
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.csproj.AssemblyReference.cache
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.AssemblyInfoInputs.cache
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.AssemblyInfo.cs
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.dll
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\refint\oper.dll
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.pdb
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\oper.genruntimeconfig.cache
+C:\Users\ilhan\OneDrive\Desktop\.net\oper\obj\Debug\net7.0\ref\oper.dll
